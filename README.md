@@ -1,3 +1,5 @@
 # PersonalPage
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoloStage)](https://github.com/anuraghazra/github-readme-stats)
+Here is my personal page
+
+https://solostage.github.io/PersonalPage/
