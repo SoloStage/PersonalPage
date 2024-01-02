@@ -1169,3 +1169,8 @@ section {
   font-family: Georgia, serif;
   margin-bottom: 10px; /* 增加行与行之间的间距，可以根据需要调整值 */
 }
+
+.github-icon {
+  width: 24px;  /* 或者您想要的任何尺寸 */
+  height: auto; /* 保持图标的纵横比 */
+}
